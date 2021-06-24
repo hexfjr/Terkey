@@ -76,7 +76,7 @@ class Terkey:
     Want to chat with me ?
     {a}https://t.me/DecHex{c}
     My Web Site
-    {a}https://www.security87.eu5.org{c}
+    {a}https://security87.xp3.biz{c}
     And if you want to give me some money, you can visit
     {a}https://saweria.co/SECURITY87{c}
     
